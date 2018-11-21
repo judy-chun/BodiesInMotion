@@ -1,0 +1,2 @@
+# BodiesInMotion
+Body class represents the particles or planets in the simulation, and the NBody class conducts the simulation. The NBody class will orchestrate the simulation, and the Body class will be used to store the values of the bodies at each point in time and have helper methods that will be used by the NBody class. The Body objects will obey the laws of Newtonian physics. The planet objects in the simulation will be subject to Pairwise Force, Net Force, Acceleration, speed, and distance. 
